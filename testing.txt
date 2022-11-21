@@ -1,1 +1,2 @@
 Some dummy content (doing fork between dodekg and LDG33)
+This one was copied from LDG33 not forked (you need to add user to your organization) - and now the content is changed by this text (commit)
